@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  MyMovies
+
+  Created by Mac on 03.12.2020.
+  
+*/
+
+"Attention" = "Attention";
+"Are you sure you want to delete the movie?" = "Are you sure you want to delete the movie?";
+"No" = "No";
+"Yes" = "Yes";
+"Error" = "Error";
+"Sorry, server is not available now, please try again later" = "Sorry, server is not available now, please try again later";
+"Ok" = "Ok";
+"Rating" = "Rating";
+"Budget:" = "Budget:";
+"Movies" = "Movies";
+"Favorites" = "Favorites";
+"Sorry, the request failed" = "Sorry, the request failed";
+"Sorry, invalid data" = "Sorry, invalid data";
